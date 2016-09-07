@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.dynamicdelivery:dd4t-providers:2011SP1-1-JLRDX-Tridion-2013SP1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/dynamicdelivery/dd4t-providers/2011SP1-1-JLRDX-Tridion-2013SP1/dd4t-providers-2011SP1-1-JLRDX-Tridion-2013SP1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/dynamicdelivery/dd4t-providers/2011SP1-1-JLRDX-Tridion-2013SP1/dd4t-providers-2011SP1-1-JLRDX-Tridion-2013SP1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/dynamicdelivery/dd4t-providers/2011SP1-1-JLRDX-Tridion-2013SP1/dd4t-providers-2011SP1-1-JLRDX-Tridion-2013SP1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
